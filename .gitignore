@@ -1,3 +1,5 @@
 packwiz-installer.jar
 ~mods/*
 mods/*
+packwiz-installer-bootstrap.jar
+packwiz.exe
