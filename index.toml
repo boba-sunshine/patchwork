@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-village-fabric.pw.toml"
-hash = "6e6ab6aaee2f35e0e997fcaf351c4f2b1dee4e37fe55ae17df4623f774ba0077"
+hash = "ceabe1624b316db479b63522115530b98bb4b5836f21a4e75363346fde0d12e1"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/creatures-from-the-snow-fabric.pw.toml"
-hash = "1bea7553ef8f8c87bc74790e8c26261dd5c72ee2662a657e3de4c281e58aa886"
+hash = "0e44e57c176cd390af7b48d0a531a89bca87fa7ae454f0de0a93be7a83032dcd"
 metafile = true
 
 [[files]]
@@ -413,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/villagers-follow-emeralds-fabric.pw.toml"
 hash = "d12944a37ce38cb75dbf7247042aa2893c0e96054eb6837de7d5e1fcaa421351"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "636a5a15f0510ed58c178761761161ca289cb4490fe0c6ba3d61b71b616fe7c0"
 metafile = true
 
 [[files]]
