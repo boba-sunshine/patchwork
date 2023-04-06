@@ -1,8 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "8dd1e2735bf0f9585f04cd333a90f28d369ea6805906f760355689a35208d8d9"
+file = "mods/3dskinlayers.pw.toml"
+hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -166,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "9b5248475175655d2bde24b9f0c945e8f73211f98ae89e9f068b579d35c3bb65"
+hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
 metafile = true
 
 [[files]]
@@ -176,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
 
 [[files]]
@@ -221,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-structures.pw.toml"
-hash = "a4fe0c51b8276419cb91ee7ce9c724b7136177baf25923ef20032c09462cc628"
+hash = "2210295dafe13407cfaabb19e51d24dc5960f86724f3d2d0759c48b1f7c77aea"
 metafile = true
 
 [[files]]
@@ -316,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "57c9b586d92581338dc9b7463074725f431b121db35cedaa7243d764afab68a8"
+hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
@@ -370,11 +371,6 @@ hash = "9e0cfc6e9bf341be13f220cba649a3420597025aebae9af7e12fa8c452ace24d"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "3842b145ba1cc33a207a846e306b5e7ee46b78f7687b1bf3ab1a6968d90477af"
-metafile = true
-
-[[files]]
 file = "mods/sky-villages-fabric.pw.toml"
 hash = "aa017222e82746915b3314abd01bcffd4561192b0ef669fa8d559b40288a36bb"
 metafile = true
@@ -420,10 +416,6 @@ hash = "d12944a37ce38cb75dbf7247042aa2893c0e96054eb6837de7d5e1fcaa421351"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric-mc1.19.2-0.2.0+beta.7.0-all.jar"
-hash = "d8d5b34823fc455ecbabcece6631e4d9cd96a0bae4ca40f80230d65b8ef76687"
-
-[[files]]
 file = "mods/waystones-fabric.pw.toml"
 hash = "5783c9c14c98d8612bb014efdf76e53acb63731e6e2792580f18597b0671a0e4"
 metafile = true
@@ -447,7 +439,3 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8890eeab73dd8a1112f486112a7119e64a959f8c35c609be5a540cf46b6595ca"
 metafile = true
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "c8268c1412d670299603f235d9c480fec544db660ce5b9004ea8c15c9618c6fa"
