@@ -1,0 +1,13 @@
+name = "Patchworks"
+author = "Tere"
+version = "3.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "de82109332fba81e3877a6f96ef5150db991fc1e9fbc6880d7984226579a94c3"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.2"
