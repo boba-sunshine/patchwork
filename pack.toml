@@ -1,12 +1,12 @@
 name = "Patchworks"
 author = "Tere"
-version = "3.0.0"
+version = "3.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d646a7573ec242ec40fcba13fe910568eff49514c6dc1c29770462293e42ff52"
+hash = "12207a515683a70d1fd29057ba8928c0ceb686e32daa15ac3bca10a633474abb"
 
 [versions]
 fabric = "0.14.19"

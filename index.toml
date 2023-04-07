@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ff2b30a400a50042f2562cb86b5ecd7b24ae1b747fea712fa4001dc674ff3ed1"
+hash = "c4d4eefeb556beb1d33a2fb479e4912ef2a58fe1fed76704a9aa7493618091a9"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/creatures-from-the-snow-fabric.pw.toml"
-hash = "0e44e57c176cd390af7b48d0a531a89bca87fa7ae454f0de0a93be7a83032dcd"
+hash = "eb1699a23daab3a47fd88700d760ded913d361a0ecc8089c68b05e2dfdbaf1fe"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "407a1746052dea96d1ea847aee9fef2ec9bd40548217ea366d1ebe2a2a4f9ce9"
+hash = "75e78971fcb2a8597a63ab3587badbb96c7d41b7aa66c3e302a8891a69da0330"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
-hash = "199bf931e17458fa299e16fc5f761241dde9ff1f9e62fe33e52acdcc1fcc2aa0"
+hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
@@ -437,10 +437,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3338f396414aec1072a0e3cd2211a52f7b15a0fd6c3e46e7ccad58daa8d2dcbd"
+hash = "a3375fd142e06deedd28c50d9dfc5ba8294121eac84b9c98d5a12a2475649aea"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8890eeab73dd8a1112f486112a7119e64a959f8c35c609be5a540cf46b6595ca"
+hash = "c071fa54273dc9f6358fb0b740e4893e617ffbe779c14909c27ad928bd246411"
 metafile = true
