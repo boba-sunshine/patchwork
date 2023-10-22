@@ -131,6 +131,11 @@ hash = "eb1699a23daab3a47fd88700d760ded913d361a0ecc8089c68b05e2dfdbaf1fe"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "16d63e67fc609fd71738428f3755f716e6d18e31f0afbf99edd26470ea29194b"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "90dec0bb053cd7eb7a5474af1b692917c0925bb938747a4e43215f1815e423e7"
 metafile = true
