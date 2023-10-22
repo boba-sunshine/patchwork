@@ -1,0 +1,16 @@
+name = "Better Villages - Fabric"
+filename = "bettervillage-fabric-1.19.2-3.0.0.jar"
+side = "both"
+
+[download]
+# hash-format = "sha1"
+# hash = "2ece48c5e7558b539b93522621c386029e6a1173"
+# mode = "metadata:curseforge"
+hash-format = "sha256"
+hash = "89eb5d0b735820e6f14deffa07080f982cb4ec86083b51b5b649cef0a3c1d710"
+url = "https://github.com/boba-sunshine/patchwork/releases/download/3.1.0/bettervillage-fabric-1.19.2-3.0.0.jar"
+
+# [update]
+# [update.curseforge]
+# file-id = 4468792
+# project-id = 615351

@@ -1,0 +1,16 @@
+name = "Creatures From The Snow! [Fabric]"
+filename = "CreaturesFromTheSnow-4.1.0+1.19.2.jar"
+side = "both"
+
+[download]
+# hash-format = "sha1"
+# hash = "5b5e8cbb460b999bf1dc7c72563122beb091e7b7"
+# mode = "metadata:curseforge"
+hash-format = "sha256"
+hash = "ff5a86915e164b6aef12792a3804d910d05717a52fbb854cb7a4665e70ad4e12"
+url = "https://github.com/boba-sunshine/patchwork/releases/download/3.1.0/CreaturesFromTheSnow-4.1.0+1.19.2.jar"
+
+# [update]
+# [update.curseforge]
+# file-id = 4337261
+# project-id = 576413

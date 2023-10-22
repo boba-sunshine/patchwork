@@ -1,0 +1,13 @@
+name = "Alex's Cute Ducks"
+filename = "duckmod-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18dc0ec828c88e7ea2fe09fd94d109bd02d1010f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3949032
+project-id = 631034
