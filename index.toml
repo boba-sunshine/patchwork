@@ -31,6 +31,11 @@ hash = "c4d4eefeb556beb1d33a2fb479e4912ef2a58fe1fed76704a9aa7493618091a9"
 metafile = true
 
 [[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "72949037bb491327d45e735e588f69491e75fe408ec05b726272579219a2fb4c"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "ccfa776ceb18c8682c928cc2aa3dc9aafac0d467667f09b8f2d15694f65a79ec"
 metafile = true
@@ -177,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+hash = "70aec7213867514755ddfe86bee5c04aaa7aaac3e966c0d8845298f3c59d137d"
 metafile = true
 
 [[files]]
@@ -237,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "f6a1e60bb1331e6ec936e743d86234fa68078fdf7b023b267431ed1a550df102"
+hash = "18315aff8eccff8536ae59d766cfad140a14f86e75412cd6683a9fcf8a555a26"
 metafile = true
 
 [[files]]
@@ -382,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+hash = "2ee27b55265a2c6c72cd1be9e8adee7616f27882e53725ff230a06f941f08337"
 metafile = true
 
 [[files]]
@@ -431,11 +436,6 @@ hash = "0d0eed7a6276bf9faed316a1baba988c4d3bffe1591a8ac1ba7bc49c63957e72"
 metafile = true
 
 [[files]]
-file = "mods/whisperwoods.pw.toml"
-hash = "8b733738c3b63eef68df0dc08a0b0517dc7d14acf45d6a00c8cd1faedfbccd05"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "a3375fd142e06deedd28c50d9dfc5ba8294121eac84b9c98d5a12a2475649aea"
 metafile = true
@@ -444,3 +444,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c071fa54273dc9f6358fb0b740e4893e617ffbe779c14909c27ad928bd246411"
 metafile = true
+
+[[files]]
+file = "serve.command"
+hash = "61785af077eed6f5d6aefcf52c94973f1811c7df0ef153b23a21d059ec6dc919"
